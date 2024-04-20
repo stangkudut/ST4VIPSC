@@ -58,9 +58,9 @@ BGX="\033[42m"
 END='\e[0m'
 
 AKTIF="VERIFIED"
-TOKEN="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"
+TOKEN="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"
 REPO="https://github.com/stangkudut/ST4VIPSC.git"
-EMAIL="backupst4@gmail.com"
+EMAIL="stangkudut@gmail.com"
 USER="ST4NGKUDUT"
 
 
